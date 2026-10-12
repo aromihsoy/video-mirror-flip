@@ -1,6 +1,6 @@
 // ==UserScript==
-// @downloadURL  https://githubusercontent.com
-// @updateURL    https://githubusercontent.com
+// @downloadURL  https://raw.githubusercontent.com/aromihsoy/video-mirror-flip/main/video-mirror-flip.user.js
+// @updateURL    https://raw.githubusercontent.com/aromihsoy/video-mirror-flip/main/video-mirror-flip.user.js
 // @name         Video Mirror Flip (Websites)
 // @namespace    http://tampermonkey.net/
 // @version      1.1
