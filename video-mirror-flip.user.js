@@ -1,4 +1,6 @@
 // ==UserScript==
+// @downloadURL  https://githubusercontent.com
+// @updateURL    https://githubusercontent.com
 // @name         Video Mirror Flip (Websites)
 // @namespace    http://tampermonkey.net/
 // @version      1.1
