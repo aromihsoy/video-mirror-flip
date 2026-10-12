@@ -6,7 +6,7 @@
 <br>
 **Mirror (flip) videos on any website with a single key combination**
 
-![Version](https://img.shields.io/badge/version-1.2-blue)
+![Version](https://img.shields.io/github/v/release/aromihsoy/video-mirror-flip)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-userscript-00485B)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
