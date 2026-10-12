@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Video Mirror Flip (Websites)
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.2.2
 // @description  Отзеркаливает видео на любых сайтах по нажатию Alt + M
 // @author       aromihsoy
 // @license      MIT
