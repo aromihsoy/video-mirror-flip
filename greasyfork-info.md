@@ -23,6 +23,12 @@
 - Окно «картинка в картинке» (PiP) может не отзеркаливаться.
 - Нужен браузер с поддержкой CSS-свойства `scale` (Chrome 104+, Firefox 72+, Safari 14.1+).
 
+## Пример
+
+| До | После (Alt + M) |
+| --- | --- |
+| ![До](https://raw.githubusercontent.com/aromihsoy/video-mirror-flip/main/images/before.png) | ![После](https://raw.githubusercontent.com/aromihsoy/video-mirror-flip/main/images/after.png) |
+
 ## Исходный код и обратная связь
 
 Репозиторий: https://github.com/aromihsoy/video-mirror-flip
