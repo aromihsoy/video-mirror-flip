@@ -10,8 +10,7 @@
 
 [![Install](https://img.shields.io/badge/⬇_Install-userscript-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/aromihsoy/video-mirror-flip/main/video-mirror-flip.user.js)
 
-[🇷🇺 Русский](README.md) · 🇬🇧 English
-
+[Русский](README.md) · English
 </div>
 
 ---
