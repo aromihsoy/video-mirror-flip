@@ -10,6 +10,8 @@
 // @run-at       document-start
 // @downloadURL  https://raw.githubusercontent.com/aromihsoy/video-mirror-flip/main/video-mirror-flip.user.js
 // @updateURL    https://raw.githubusercontent.com/aromihsoy/video-mirror-flip/main/video-mirror-flip.user.js
+// @name:en         Video Mirror Flip (Websites)
+// @description:en  Mirror (flip) videos horizontally on any website with Alt + M
 // ==/UserScript==
 
 (function () {
